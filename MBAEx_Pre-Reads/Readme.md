@@ -8,16 +8,22 @@ The documents have been collected from the current cohort. Please refrain from s
 This section lists the Online courses, websites, newsletters, articles shared for references:
 
 * [Disruptive Innovation](https://hbr.org/2015/12/what-is-disruptive-innovation) was shared for a read from Harvard Business Review
-* [The Ken](https://the-ken.com/) IIMC managed newsletter was suggested to be subscribed for Business articles
+* [The Ken](https://the-ken.com/) IIMC alumnus managed newsletter was suggested to be subscribed for Business articles
 * [Accounting and Finance](https://www.edx.org/course/accounting-and-finance) course from Edx can be pursued
 * [Finance Course](https://www.coursera.org/learn/wharton-accounting?specialization=finance-accounting) from Coursera which can be checked
 * [Excel](https://www.coursera.org/specializations/excel) Course from Coursera was received as a suggestion
 * [Excel](https://www.youtube.com/c/Excelcampus1) Youtube Channel which might come handy
 
+### Offline Resources
 
-| Title | MS Word Version | PDF Version |
-|--|--|--|
-| Disruptive Innovation | [Link](MS_Word_Version/APPLICATION-FORM.doc) |[Link](/SBI_Loan_Documents/PDF_Version/APPLICATION-FORM.pdf) |
+| Title | File |
+|--|--|
+| William Ellet - The case study handbook a student's guide (2018).pdf | [Link](/MBAEx_Pre-Reads/William-Ellet-The-case-study-handbook-a-student's-guide-(2018).pdf) |
+| Case in Point 9_ Complete Case Interview Preparation ( PDFDrive ).pdf | [Link](/MBAEx_Pre-Reads/Case-in-Point 9_Complete-Case-Interview-Preparation(PDFDrive).pdf) |
+
+
+
+
 | Checklist & General Guidelines | [Link](MS_Word_Version/CHECKLIST-&-GENERAL-GUIDELINES.DOC) |[Link](/SBI_Loan_Documents/PDF_Version/CHECKLIST-&-GENERAL-GUIDELINES.pdf) |
 | FAQ on Scholar Loan from SBI | [Link](MS_Word_Version/FAQ-on-Scholar-Loan-from-SBI-IIM.docx) |[Link](/SBI_Loan_Documents/PDF_Version/FAQ-on-Scholar-Loan-from-SBI-IIM.pdf) |
 | Opinion Report | [Link](MS_Word_Version/OPINION-REPORT.doc) |[Link](/SBI_Loan_Documents/PDF_Version/OPINION-REPORT.pdf) |
