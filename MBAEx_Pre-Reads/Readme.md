@@ -28,8 +28,9 @@ This is an online course from Wharton University of Pennsylvania shared by the C
 | Title | PDF Files | Videos
 |--|--|--|
 | Week 1 - Financial Reporting | [Link](/MBAEx_Pre-Reads/Week_1-Financial_Reporting/) |
-| Case in Point 9_ Complete Case Interview Preparation ( PDFDrive ).pdf | [Link](/MBAEx_Pre-Reads/Case-in-Point-9-Complete-Case-Interview-Preparation.pdf) |
-
+| Week 2 - Accrual Accounting and the Income Statement | [Link](/MBAEx_Pre-Reads/Case-in-Point-9-Complete-Case-Interview-Preparation.pdf) |
+| Week 3 - Operating, Investing and Financing Cash Flows | [Link](/MBAEx_Pre-Reads/Week_1-Financial_Reporting/) |
+| Week 4 - Ratio Analysis | [Link](/MBAEx_Pre-Reads/Case-in-Point-9-Complete-Case-Interview-Preparation.pdf) |
 
 Feel free to connect with me over&nbsp; [![LinkedIn][linkedin-shield]][linkedin-url]
 
