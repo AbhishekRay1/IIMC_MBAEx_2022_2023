@@ -5,14 +5,16 @@
 <br/>**Phone Number**&ensp;: 9674713150
 <br/>**Email Address**&emsp;: sbi.06210@sbi.co.in
 
-| Video/Playlist | Artifact |
-|--|--|
-| [AZ-900 Full Course](https://youtube.com/playlist?list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3) | [AZ-900 Course Handout](/SBI_Loan_Documents/MS_Word_Version/APPLICATION-FORM.doc) |
-| [AZ-900 Study Cram](https://youtu.be/tQp1YkB2Tgs) | [AZ-900 Study Cram Whiteboard](/whiteboards/AZ-900-Whiteboard.png) |
-| [AI-900 Study Cram](https://youtu.be/E9aarWMLJw0) | [AI-900 Study Cram Whiteboard](/whiteboards/AI-900-Whiteboard.png) |
+### Documents
 
+| Title | MS Word Version | PDF Version |
+|--|--|--|
+| Application Form | [Link](/SBI_Loan_Documents/MS_Word_Version/APPLICATION-FORM.doc) |[Link](/PDF_Version/APPLICATION-FORM.pdf) |
+| Checklist & General Guidelines | [Link](/SBI_Loan_Documents/MS_Word_Version/CHECKLIST-&-GENERAL-GUIDELINES.doc) |[Link](/PDF_Version/CHECKLIST-&-GENERAL-GUIDELINES.pdf) |
+| FAQ on Scholar Loan from SBI | [Link](/SBI_Loan_Documents/FAQ-on-Scholar-Loan-from-SBI-IIM.doc) |[Link](/PDF_Version/FAQ-on-Scholar-Loan-from-SBI-IIM.pdf) |
+| Opinion Report | [Link](/SBI_Loan_Documents/MS_Word_Version/OPINION-REPORT.doc) |[Link](/PDF_Version/OPINION-REPORT.pdf) |
 
-Feel free to connect over  [![LinkedIn][linkedin-shield]][linkedin-url]
+Feel free to connect with me over&nbsp; [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
