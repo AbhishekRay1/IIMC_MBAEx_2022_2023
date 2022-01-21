@@ -13,7 +13,7 @@
 |--|--|--|
 | Application Form | [Link](/SBI_Loan_Documents/MS_Word_Version/APPLICATION-FORM.doc) |[Link](/SBI_Loan_Documents/PDF_Version/APPLICATION-FORM.pdf) |
 | Checklist & General Guidelines | [Link](/SBI_Loan_Documents/MS_Word_Version/CHECKLIST-&-GENERAL-GUIDELINES.doc) |[Link](/SBI_Loan_Documents/PDF_Version/CHECKLIST-&-GENERAL-GUIDELINES.pdf) |
-| FAQ on Scholar Loan from SBI | [Link](/SBI_Loan_Documents/FAQ-on-Scholar-Loan-from-SBI-IIM.doc) |[Link](/SBI_Loan_Documents/PDF_Version/FAQ-on-Scholar-Loan-from-SBI-IIM.pdf) |
+| FAQ on Scholar Loan from SBI | [Link](/SBI_Loan_Documents/MS_Word_Version/FAQ-on-Scholar-Loan-from-SBI-IIM.doc) |[Link](/SBI_Loan_Documents/PDF_Version/FAQ-on-Scholar-Loan-from-SBI-IIM.pdf) |
 | Opinion Report | [Link](/SBI_Loan_Documents/MS_Word_Version/OPINION-REPORT.doc) |[Link](/SBI_Loan_Documents/PDF_Version/OPINION-REPORT.pdf) |
 
 
