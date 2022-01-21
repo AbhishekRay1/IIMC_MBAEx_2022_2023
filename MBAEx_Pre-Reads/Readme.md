@@ -19,14 +19,8 @@ This section lists the Online courses, websites, newsletters, articles shared fo
 | Title | File |
 |--|--|
 | William Ellet - The case study handbook a student's guide (2018).pdf | [Link](/MBAEx_Pre-Reads/William-Ellet-The-case-study-handbook-a-student's-guide-(2018).pdf) |
-| Case in Point 9_ Complete Case Interview Preparation ( PDFDrive ).pdf | [Link](/MBAEx_Pre-Reads/Case-in-Point 9_Complete-Case-Interview-Preparation(PDFDrive).pdf) |
+| Case in Point 9_ Complete Case Interview Preparation ( PDFDrive ).pdf | [Link](/MBAEx_Pre-Reads/Case-in-Point-9-Complete-Case-Interview-Preparation.pdf) |
 
-
-
-
-| Checklist & General Guidelines | [Link](MS_Word_Version/CHECKLIST-&-GENERAL-GUIDELINES.DOC) |[Link](/SBI_Loan_Documents/PDF_Version/CHECKLIST-&-GENERAL-GUIDELINES.pdf) |
-| FAQ on Scholar Loan from SBI | [Link](MS_Word_Version/FAQ-on-Scholar-Loan-from-SBI-IIM.docx) |[Link](/SBI_Loan_Documents/PDF_Version/FAQ-on-Scholar-Loan-from-SBI-IIM.pdf) |
-| Opinion Report | [Link](MS_Word_Version/OPINION-REPORT.doc) |[Link](/SBI_Loan_Documents/PDF_Version/OPINION-REPORT.pdf) |
 
 Feel free to connect with me over&nbsp; [![LinkedIn][linkedin-shield]][linkedin-url]
 
