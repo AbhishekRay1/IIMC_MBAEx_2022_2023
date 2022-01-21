@@ -1,6 +1,8 @@
 ### State Bank of India IIM Joka Branch Contact Details
 
-**Name**&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;: Varun Kumar
+<img src="https://user-images.githubusercontent.com/98149388/150526057-d1c39571-32e4-44f6-8467-ad88501bbc25.png" width="200" height="200" align="right">
+
+**Name**&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;: Varun Kumar 
 <br/>**Designation**&emsp;&emsp;: Branch Manager
 <br/>**Phone Number**&ensp;: 9674713150
 <br/>**Email Address**&emsp;: sbi.06210@sbi.co.in
