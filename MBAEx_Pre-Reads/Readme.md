@@ -21,6 +21,15 @@ This section lists the Online courses, websites, newsletters, articles shared fo
 | William Ellet - The case study handbook a student's guide (2018).pdf | [Link](/MBAEx_Pre-Reads/William-Ellet-The-case-study-handbook-a-student's-guide-(2018).pdf) |
 | Case in Point 9_ Complete Case Interview Preparation ( PDFDrive ).pdf | [Link](/MBAEx_Pre-Reads/Case-in-Point-9-Complete-Case-Interview-Preparation.pdf) |
 
+### Introduction to Financial Accounting
+
+This is an online course from Wharton University of Pennsylvania shared by the Current Cohort
+
+| Title | PDF Files | Videos
+|--|--|--|
+| Week 1 - Financial Reporting | [Link](/MBAEx_Pre-Reads/Week_1-Financial_Reporting/) |
+| Case in Point 9_ Complete Case Interview Preparation ( PDFDrive ).pdf | [Link](/MBAEx_Pre-Reads/Case-in-Point-9-Complete-Case-Interview-Preparation.pdf) |
+
 
 Feel free to connect with me over&nbsp; [![LinkedIn][linkedin-shield]][linkedin-url]
 
