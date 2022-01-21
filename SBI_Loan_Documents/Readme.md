@@ -1,6 +1,6 @@
 ### State Bank of India IIM Joka Branch Contact Details
 
-<img src="https://user-images.githubusercontent.com/98149388/150526057-d1c39571-32e4-44f6-8467-ad88501bbc25.png" width="200" height="200" align="right">
+<img src="https://user-images.githubusercontent.com/98149388/150527175-0dd7a707-2180-4fb4-8251-0b446ca934d6.png" width="225" height="150" align="right">
 
 **Name**&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;: Varun Kumar 
 <br/>**Designation**&emsp;&emsp;: Branch Manager
