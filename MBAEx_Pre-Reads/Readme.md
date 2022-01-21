@@ -28,9 +28,9 @@ This is an online course from Wharton University of Pennsylvania shared by the C
 | Title | PDF Files | Videos
 |--|--|--|
 | Week 1 - Financial Reporting | [Link](/MBAEx_Pre-Reads/Week_1-Financial_Reporting/) | [Link](https://1drv.ms/u/s!AuxhR8Xq6TYtg_t2SCNISmKyT17Qyw?e=YzQTID) |
-| Week 2 - Accrual Accounting and the Income Statement | [Link](/MBAEx_Pre-Reads/Week_2-Accrual_Accounting_and_the_Income_Statement/) |
-| Week 3 - Operating, Investing and Financing Cash Flows | [Link](/MBAEx_Pre-Reads/Week_3-Operating,Investing_and_Financing_Cash_Flows/) |
-| Week 4 - Ratio Analysis | [Link](/MBAEx_Pre-Reads/Week_4-Ratio_Analysis/) |
+| Week 2 - Accrual Accounting and the Income Statement | [Link](/MBAEx_Pre-Reads/Week_2-Accrual_Accounting_and_the_Income_Statement/) | [Link](https://1drv.ms/u/s!AuxhR8Xq6TYtg_wdMmx-QjBBlaO_6A?e=BSgDzd) |
+| Week 3 - Operating, Investing and Financing Cash Flows | [Link](/MBAEx_Pre-Reads/Week_3-Operating,Investing_and_Financing_Cash_Flows/) | [Link](https://1drv.ms/u/s!AuxhR8Xq6TYtg_t2SCNISmKyT17Qyw?e=YzQTID) |
+| Week 4 - Ratio Analysis | [Link](/MBAEx_Pre-Reads/Week_4-Ratio_Analysis/) | [Link](https://1drv.ms/u/s!AuxhR8Xq6TYtg_t2SCNISmKyT17Qyw?e=YzQTID) |
 
 Feel free to connect with me over&nbsp; [![LinkedIn][linkedin-shield]][linkedin-url]
 
