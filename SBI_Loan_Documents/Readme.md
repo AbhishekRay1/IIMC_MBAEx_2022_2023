@@ -1,6 +1,5 @@
-### State Bank of India IIM Joka Branch Contact Details
 
-<img src="https://user-images.githubusercontent.com/98149388/150527175-0dd7a707-2180-4fb4-8251-0b446ca934d6.png" width="225" height="150" align="right">
+### State Bank of India IIM Joka Branch Contact Details
 
 **Name**&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;: Varun Kumar 
 <br/>**Designation**&emsp;&emsp;: Branch Manager
@@ -20,6 +19,6 @@ Feel free to connect with me over&nbsp; [![LinkedIn][linkedin-shield]][linkedin-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=00008b
 [linkedin-url]: https://www.linkedin.com/in/abhishekray1/
+[SBI-shield]: https://img.shields.io/badge/-SBI-black.svg?style=flat-square&logo=SBI&colorB=00008b
