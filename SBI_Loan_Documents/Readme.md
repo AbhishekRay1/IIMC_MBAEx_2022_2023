@@ -11,9 +11,9 @@
 | Title | MS Word Version | PDF Version |
 |--|--|--|
 | Application Form | [Link](https://1drv.ms/w/s!AuxhR8Xq6TYtg_w6MycX-JxbMrMSgA?e=HkZg0I) |[Link](/SBI_Loan_Documents/PDF_Version/APPLICATION-FORM.pdf) |
-| Checklist & General Guidelines | [Link](MS_Word_Version/CHECKLIST-&-GENERAL-GUIDELINES.DOC) |[Link](/SBI_Loan_Documents/PDF_Version/CHECKLIST-&-GENERAL-GUIDELINES.pdf) |
-| FAQ on Scholar Loan from SBI | [Link](MS_Word_Version/FAQ-on-Scholar-Loan-from-SBI-IIM.docx) |[Link](/SBI_Loan_Documents/PDF_Version/FAQ-on-Scholar-Loan-from-SBI-IIM.pdf) |
-| Opinion Report | [Link](MS_Word_Version/OPINION-REPORT.doc) |[Link](/SBI_Loan_Documents/PDF_Version/OPINION-REPORT.pdf) |
+| Checklist & General Guidelines | [Link](https://1drv.ms/w/s!AuxhR8Xq6TYtg_w72ckn61b-pNEfhg?e=nbpLg9) |[Link](/SBI_Loan_Documents/PDF_Version/CHECKLIST-&-GENERAL-GUIDELINES.pdf) |
+| FAQ on Scholar Loan from SBI | [Link](https://1drv.ms/w/s!AuxhR8Xq6TYtg_w89wc4LyPx1qULPA?e=XhSxt3) |[Link](/SBI_Loan_Documents/PDF_Version/FAQ-on-Scholar-Loan-from-SBI-IIM.pdf) |
+| Opinion Report | [Link](https://1drv.ms/w/s!AuxhR8Xq6TYtg_w9xv_pxsvhphFXuw?e=rTahXU) |[Link](/SBI_Loan_Documents/PDF_Version/OPINION-REPORT.pdf) |
 
 Feel free to connect with me over&nbsp; [![LinkedIn][linkedin-shield]][linkedin-url]
 
