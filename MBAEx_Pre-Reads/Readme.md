@@ -1,6 +1,5 @@
-### MBAEx Pre-Reads
-<img src="https://user-images.githubusercontent.com/98149388/150537659-fe956678-5d98-44e7-b8db-57d0fc26438c.png" width = "250" height="250" align="right">
 
+### MBAEx Pre-Reads
 The documents have been collected from the current cohort. Please refrain from sharing this with admits from other B Schools.
 
 ### Online Resources
