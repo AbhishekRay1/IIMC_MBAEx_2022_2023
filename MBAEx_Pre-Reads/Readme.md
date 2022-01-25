@@ -12,6 +12,7 @@ This section lists the Online courses, websites, newsletters, articles shared fo
 * [Finance Course](https://www.coursera.org/learn/wharton-accounting?specialization=finance-accounting) from Coursera which can be checked
 * [Excel](https://www.coursera.org/specializations/excel) Course from Coursera was received as a suggestion
 * [Excel](https://www.youtube.com/c/Excelcampus1) Youtube Channel which might come handy
+* [Youtube](https://www.youtube.com/watch?v=pyaIppMhuic) video can be checked for Smart Contracts in Crypto
 
 ### Offline Resources
 
