@@ -15,6 +15,19 @@
 | FAQ on Scholar Loan from SBI | [Link](https://1drv.ms/w/s!AuxhR8Xq6TYtg_w89wc4LyPx1qULPA?e=XhSxt3) |[Link](/SBI_Loan_Documents/PDF_Version/FAQ-on-Scholar-Loan-from-SBI-IIM.pdf) |
 | Opinion Report | [Link](https://1drv.ms/w/s!AuxhR8Xq6TYtg_w9xv_pxsvhphFXuw?e=rTahXU) |[Link](/SBI_Loan_Documents/PDF_Version/OPINION-REPORT.pdf) |
 
+### Few Pointers from [Hrishikesh Mohan](https://www.linkedin.com/in/hrishikesh-mohan-k-p-04193116/)
+
+**1.** Open a General Savings Bank account in any SBI branch as soon as possible, if not having one already. 
+<br/>**2.** If you already have an account, mention that in the loan appln (even if not used for a long time).
+<br/>**2.** Insurance is not compulsory. It is just for Bank's target. If you want to invest, go ahead.
+<br/>**3.** Vidyalakshmi portal login may be required, but don't bother unless SBI people ask you to apply in it.
+<br/>**4.** Highly recommended to apply loan from SBI Joka branch for best interest rate and flexible conditions.
+<br/>**5.** People with single income families planning to live off their savings, do apply maximum loan amount (including maximum living expenses). 
+<br/>**6.** It may be possible to claim the initial deposit of ₹ 2 lakhs also. Laptop cost may also be a part of the loan amount.
+<br/>**7.** It is suggested that the scan copy of the application with the relevant attachments (KYC, payslips,admit letter etc) be sent by mail to the branch at the earliest.
+<br/>**7.** No Co-Applicant required for the loan, no mortgage as well.
+<br/>**8.** Interest rate is floating and diminishing. No prepayment penalty. You'll have to pay back only the availed amount, not the sanctioned amount
+
 Feel free to connect with me over&nbsp; [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
