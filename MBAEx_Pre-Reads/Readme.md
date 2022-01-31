@@ -22,6 +22,7 @@ This section lists the Online courses, websites, newsletters, articles shared fo
 | Case in Point 9_ Complete Case Interview Preparation ( PDFDrive ).pdf | [Link](/MBAEx_Pre-Reads/Case-in-Point-9-Complete-Case-Interview-Preparation.pdf) |
 | Decentralized-Finance-Slide-Deck.pdf | [Link](/MBAEx_Pre-Reads/Decentralized-Finance-Slide-Deck.pdf) |
 | NATIONAL-STRATEGY-ON-BLOCKCHAIN.pdf | [Link](/MBAEx_Pre-Reads/NATIONAL-STRATEGY-ON-BLOCKCHAIN.pdf) |
+| Harvard Resume Guide.pdf | [Link](/MBAEx_Pre-Reads/Harvard-Resume-Guide.pdf) |
 
 ### Introduction to Financial Accounting
 
