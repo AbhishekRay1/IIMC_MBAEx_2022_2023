@@ -23,6 +23,7 @@ This section lists the Online courses, websites, newsletters, articles shared fo
 | Decentralized-Finance-Slide-Deck.pdf | [Link](/MBAEx_Pre-Reads/Decentralized-Finance-Slide-Deck.pdf) |
 | NATIONAL-STRATEGY-ON-BLOCKCHAIN.pdf | [Link](/MBAEx_Pre-Reads/NATIONAL-STRATEGY-ON-BLOCKCHAIN.pdf) |
 | Harvard Resume Guide.pdf | [Link](/MBAEx_Pre-Reads/Harvard-Resume-Guide.pdf) |
+| The Digital Fifth Indian Fintech Funding Analysis 2021.pdf | [Link](/MBAEx_Pre-Reads/The-Digital-Fifth-Indian-Fintech-Funding-Analysis_2021.pdf) |
 
 ### Introduction to Financial Accounting
 
