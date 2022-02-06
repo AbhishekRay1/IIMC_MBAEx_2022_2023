@@ -28,6 +28,8 @@
 <br/>**7.** No Co-Applicant required for the loan, no mortgage as well.
 <br/>**8.** Interest rate is floating and diminishing. No prepayment penalty. You'll have to pay back only the availed amount, not the sanctioned amount
 
+#### [Link](https://1drv.ms/w/s!AuxhR8Xq6TYtg_w-QPJA0PBHYQZnhQ?e=ahLym3) for Sample File from [Shashank Dubey](https://www.linkedin.com/in/shashankdube/) has also been provided
+
 Feel free to connect with me over&nbsp; [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
