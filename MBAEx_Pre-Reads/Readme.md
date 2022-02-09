@@ -24,6 +24,8 @@ This section lists the Online courses, websites, newsletters, articles shared fo
 | NATIONAL-STRATEGY-ON-BLOCKCHAIN.pdf | [Link](/MBAEx_Pre-Reads/NATIONAL-STRATEGY-ON-BLOCKCHAIN.pdf) |
 | Harvard Resume Guide.pdf | [Link](/MBAEx_Pre-Reads/Harvard-Resume-Guide.pdf) |
 | The Digital Fifth Indian Fintech Funding Analysis 2021.pdf | [Link](/MBAEx_Pre-Reads/The-Digital-Fifth-Indian-Fintech-Funding-Analysis_2021.pdf) |
+| Non Fungible Tokens ( A Definitive Guide ).pdf | [Link](/MBAEx_Pre-Reads/NFTs.pdf) |
+| Traditional B2B Sales and Marketing are becoming obselete.pdf | [Link](/MBAEx_Pre-Reads/HBR-Article.pdf) |
 
 ### Introduction to Financial Accounting
 
