@@ -26,6 +26,7 @@ This section lists the Online courses, websites, newsletters, articles shared fo
 | The Digital Fifth Indian Fintech Funding Analysis 2021.pdf | [Link](/MBAEx_Pre-Reads/The-Digital-Fifth-Indian-Fintech-Funding-Analysis_2021.pdf) |
 | Non Fungible Tokens ( A Definitive Guide ).pdf | [Link](/MBAEx_Pre-Reads/NFTs.pdf) |
 | Traditional B2B Sales and Marketing are becoming obselete.pdf | [Link](/MBAEx_Pre-Reads/HBR-Article.pdf) |
+| Obliraj Chithuraju Resume.pdf | [Link](/MBAEx_Pre-Reads/Obliraj_Chithuraju-Resume.pdf) |
 
 ### Introduction to Financial Accounting
 
