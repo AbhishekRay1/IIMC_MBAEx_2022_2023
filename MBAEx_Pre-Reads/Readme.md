@@ -26,7 +26,24 @@ This section lists the Online courses, websites, newsletters, articles shared fo
 | The Digital Fifth Indian Fintech Funding Analysis 2021.pdf | [Link](/MBAEx_Pre-Reads/The-Digital-Fifth-Indian-Fintech-Funding-Analysis_2021.pdf) |
 | Non Fungible Tokens ( A Definitive Guide ).pdf | [Link](/MBAEx_Pre-Reads/NFTs.pdf) |
 | Traditional B2B Sales and Marketing are becoming obselete.pdf | [Link](/MBAEx_Pre-Reads/HBR-Article.pdf) |
+| Fintech 2022 | [Link](/MBAEx_Pre-Reads/Fintech-2022.pdf) |
 | Obliraj Chithuraju Resume.pdf | [Link](/MBAEx_Pre-Reads/Obliraj_Chithuraju-Resume.pdf) |
+
+
+### Case Books
+
+| Title | Pages | File |
+|--|--|--|
+| IIM_A_CaseBooklet_2021-22 | 280 Pages | [Link](/MBAEx_Pre-Reads/IIM_A_CaseBooklet_2021-22.pdf) |
+| ICON - IIMB Casebook and Industry Reports 2021-22 (c) | 156 Pages | [Link](/MBAEx_Pre-Reads/ICON-IIMB-Casebook-and-Industry-Reports-2021-22(c).pdf) |
+| Case Interviews Cracked Advanced | 275 Pages | [Link](/MBAEx_Pre-Reads/Case-Interviews-Cracked-Advanced.pdf) |
+| Case_in_Point_10_Complete_Case_Interview_Preparation_by_Cosentino | 312 Pages | [Link](/MBAEx_Pre-Reads/Case_in_Point_10_Complete_Case_Interview_Preparation_by_Cosentino.pdf) |
+| FMS_CaseBooklet | 168 Pages | [Link](/MBAEx_Pre-Reads/FMS_CaseBooklet.pdf) |
+| IIM Lucknow Case Book_2021 | 313 Pages | [Link](/MBAEx_Pre-Reads/IIM-Lucknow-Case-Book_2021.pdf) |
+| ISB_Consulting_Casebook_CO2018 | 324 Pages| [Link](/MBAEx_Pre-Reads/ISB_Consulting_Casebook_CO2018.pdf) |
+| ISB_Consulting_Casebook_CO2019 | 364 Pages| [Link](/MBAEx_Pre-Reads/ISB_Consulting_Casebook_CO2019.pdf) |
+| ISB_Consulting_Casebook_CO2020 | 157 Pages| [Link](/MBAEx_Pre-Reads/ISB_Consulting_Casebook_CO2020.pdf) |
+
 
 ### Introduction to Financial Accounting
 
