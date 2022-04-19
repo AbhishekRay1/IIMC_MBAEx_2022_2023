@@ -43,6 +43,7 @@ This section lists the Online courses, websites, newsletters, articles shared fo
 | ISB_Consulting_Casebook_CO2018 | 324 Pages| [Link](/MBAEx_Pre-Reads/ISB_Consulting_Casebook_CO2018.pdf) |
 | ISB_Consulting_Casebook_CO2019 | 364 Pages| [Link](/MBAEx_Pre-Reads/ISB_Consulting_Casebook_CO2019.pdf) |
 | ISB_Consulting_Casebook_CO2020 | 157 Pages| [Link](/MBAEx_Pre-Reads/ISB_Consulting_Casebook_CO2020.pdf) |
+| DTU Casebook 2021-22 | 136 Pages| [Link](/MBAEx_Pre-Reads/DTU-Casebook-2021-22.pdf) |
 
 
 ### Introduction to Financial Accounting
